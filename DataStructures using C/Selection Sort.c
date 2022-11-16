@@ -22,7 +22,7 @@ void main()
 
     }
 
-    printf("Sorting elements using Selection Sort Technique!!");
+    printf("Sorting elements using Selection Sort Technique!!\n\n");
 
     for (i=0;i<n-1;i++)
     {
